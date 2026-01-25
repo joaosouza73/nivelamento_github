@@ -15,10 +15,10 @@ ___
         Hobby:
         Expectativa para o curso ADS:
     ```
-3. Após finalizar a edição, realize as etapas (instruções no Notion):
-    a. Stage
+3. Após finalizar a edição, realize as etapas do fluxo básico do Git (instruções no Notion):
+    a. Stage Changes
     b. Commit
-    c. Push
+    c. Publish Branch
 ___
 
 ## Atividade 02:
