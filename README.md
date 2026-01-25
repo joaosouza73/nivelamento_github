@@ -15,7 +15,7 @@ ___
         Hobby:
         Expectativa para o curso ADS:
     ```
-3. Após finalizar a edição, realize as etapas:
+3. Após finalizar a edição, realize as etapas (instruções no Notion):
     a. Stage
     b. Commit
     c. Push
